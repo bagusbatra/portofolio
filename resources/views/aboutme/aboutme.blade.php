@@ -143,34 +143,46 @@
 										solutions while sharing knowledge with others. I believe that technology is not
 										only about writing code, but also about solving problems and inspiring people
 										through innovation and creativity.</p>
+										<p>I work across frontend, backend development, database management, and interface design to deliver well-structured 
+											and scalable web applications. By combining technical expertise with thoughtful design, I focus on creating digital 
+											solutions that are reliable, efficient, and provide a seamless user experience.</p>
 									</div>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 									<div class="services color-1">
-										<span class="icon2"></span>
+										<span class="icon2">
+											<i><x-fab-html5 /></i> 
+											<i><x-fab-css3-alt /></i> 
+											<i><x-fab-js-square /></i> 
+										</span>
 										<h3>Front-End</h3>
 									</div>
 								</div>
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
 									<div class="services color-2">
 										<span class="icon2">
+											<i><x-fab-php /></i>
 											<i><x-fab-laravel /></i>
-											<i><x-fab-laravel /></i>
+											<i><x-fab-python /></i>
 										</span>
 										<h3>Back-End</h3>
 									</div>
 								</div>
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
 									<div class="services color-3">
-										<span class="icon2"></span>
+										<span class="icon2">
+											<i class="bi bi-filetype-sql"></i>
+										</span>
 										<h3>Database</h3>
 									</div>
 								</div>
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
 									<div class="services color-4">
-										<span class="icon2"></span>
+										<span class="icon2">
+											<i><x-iconoir-adobe-illustrator-solid /></i>
+										</span>
 										<h3>Design Graphic</h3>
 									</div>
 								</div>
